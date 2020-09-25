@@ -1,4 +1,8 @@
 # obstimer
+
+THIS PROJECT IS NOW OBSOLETE AND NOT MAINTAINED.
+IMPROVED PYTHON VERSION AVAILABLE HERE: https://github.com/exenza/obspymer
+
 obstimer via text file
 
 Copy the repo in a user system folder (i.e. ~/Documents/obstimer)
